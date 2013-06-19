@@ -7,4 +7,5 @@ echo 'test1.4';
 
 echo 'test1.5zend';
 echo 'test1.6zend';
+echo 'test1.7zend';
 ?>
